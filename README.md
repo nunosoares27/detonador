@@ -3,6 +3,10 @@ Jogo simples em Processing chamado detonador, que irá funcionar em uma espécie
 
 [![coding.jpg](https://s18.postimg.org/xkw0kjeex/coding.jpg)](https://postimg.org/image/s9h3ztsc5/)
 
+## Vamos lá trabalhar =)
+
+##### Código do Processing
+
 ```processing
 import controlP5.*;
  
