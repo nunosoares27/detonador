@@ -1,7 +1,7 @@
 # detonador
 Jogo simples em Processing chamado detonador, que irá funcionar em uma espécie de consola arcada dos anos 80, incorporando um detonador fisico que ira provocar a explosão e pontuação do jogo 
 
-![image](https://{scontent.fopo1-1.fna.fbcdn.net/v/t31.0-8/17039379_670172063193311_3224195269592974630_o.jpg?oh=6929e4d17d581dfb14b7$})
+[![coding.jpg](https://s18.postimg.org/xkw0kjeex/coding.jpg)](https://postimg.org/image/s9h3ztsc5/)
 
 ```processing
 import controlP5.*;
