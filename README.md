@@ -1,4 +1,4 @@
-# detonador
+# Detonador
 Jogo simples em Processing chamado detonador, que irá funcionar em uma espécie de consola arcada dos anos 80, incorporando um detonador fisico que ira provocar a explosão e pontuação do jogo 
 
 [![coding.jpg](https://s18.postimg.org/xkw0kjeex/coding.jpg)](https://postimg.org/image/s9h3ztsc5/)
